@@ -1,3 +1,16 @@
+## How to use
+- Create .env file
+- Run command "composer i"
+- Run command "npm i"
+- Run command "npm run dev"
+- Run command "php artisan migrate"
+
+## How to test
+- Run command "php artisan serve"
+- Go to POSTMAN or other API Tester 
+- Create request with POST Method 
+- Run localhost:8000/register with name, email, and password in body
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
